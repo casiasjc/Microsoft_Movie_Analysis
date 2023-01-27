@@ -7,6 +7,9 @@ __pycache__/
 *.so
 *.tsv
 *.db
+*.zip
+/zippedData
+
 # Distribution / packaging
 .Python
 build/
